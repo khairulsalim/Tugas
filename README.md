@@ -1,4 +1,3 @@
-Restaurant
+Tugas
 ==========
 
-A template for Restaurant business
